@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import './style.css';
 
@@ -20,7 +19,7 @@ function App() {
 
   <div><h1>My Favourite Hobbies</h1>
   <ol>
-    <li className="OrderList">Playing Cricket</li>
+    <li>Playing Cricket</li>
     <li>Reading Books</li>
     <li>Watching Movies</li>
   </ol></div>
@@ -29,8 +28,8 @@ function App() {
 
   <ul>
     <li>Pakistan</li>
-    <li>Turkey</li>
-    <li>Italy</li>
+    <li>Turkey  </li>
+    <li>Italy   </li>
   </ul>
   
 </div>
