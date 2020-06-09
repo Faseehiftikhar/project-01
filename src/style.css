@@ -1,0 +1,10 @@
+.Mybio{
+    text-align: center;
+    background-color: lightgray;
+}
+.Name{font-size: 3rem;
+}
+.FullName{font-style: italic;
+    }
+.ShortIntro{font-size: 2rem;
+font-style: oblique;}
